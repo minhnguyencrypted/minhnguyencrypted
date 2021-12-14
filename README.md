@@ -4,7 +4,7 @@ say it like Minh Nguyen encrypted
 ## About me:
 `about_me = list(`
 
-- Highly-autodidactic 2nd year SWE student @ RMIT VN
+- Highly-AutoDiDactic™ 2nd year SWE student @ RMIT VN
 - Pythonist 🐍 and Rustacean 🦀
 - Love writing Server-side stuff using Flask framework
 - Curious about Web Security 🔒 and Vulnerabilties ⚠️
