@@ -18,7 +18,6 @@ say it like Minh Nguyen encrypted
 ## Contacts:
 `contacts = dict(`
 
-- 📧 email=[s3877222@rmit.edu.vn](mailto:s3877222@rmit.edu.vn) 
 - 📷 instagram=[minhn.sh](https://instagram.com/minhn.sh/)
 - 🎮 steam=[thefoobarbazrider](https://steamcommunity.com/profiles/76561198360118104)
 - ❤️ my_tinder=[bit.ly/3hQ94Fs](https://bit.ly/3hQ94Fs)
