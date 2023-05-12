@@ -1,25 +1,24 @@
-# Hey there, this is 🔒 minhnguyencrypted 🔒
-say it like Minh Nguyen encrypted
+## Minh Nguyen
+Virtualisation, Hybrid Cloud and Infrastructure as Code (IaC) geek
 
 ## About me:
-`about_me = list(`
+Homelabber with an inspiration from r/HomeDataCenter.
+My main interests are:
+- VMware technologies: vSphere 7 with Tanzu and NSX-T 3.2
+- IaC: Ansible and Terraform
+- CI/CD: Jenkins
 
-- Highly-AutoDiDactic™ 2nd year SWE student @ RMIT VN
-- Pythonist 🐍 and Rustacean 🦀
-- Love writing Server-side stuff using Flask framework
-- Curious about Web Security 🔒 and Vulnerabilties ⚠️
-- Supporting FOSS movement
-- Hobbyist motorcycle mechanic 
-- HJKL > mouse
-- **i use arch btw**
- 
-`)`
+## My homelab
+Hardware:
+- 11th gen Dell PowerEdge R-series, running VMware ESXi 6.7
+- 13th gen Dell PowerEdge R-series, running VMware ESXi 7
+- 4th gen Intel old desktop, running VMware ESXi 6.7
+- Cisco Catalyst Layer-2 Switch
 
-## Contacts:
-`contacts = dict(`
+Software:
+- VMware vSphere 7
+- VMware NSX-T 3.2
+- Red Hat Ansible Automation Platform (WIP)
+- VMware Tanzu Kubernetes Grid (WIP)
 
-- 📷 instagram=[minhn.sh](https://instagram.com/minhn.sh/)
-- 🎮 steam=[thefoobarbazrider](https://steamcommunity.com/profiles/76561198360118104)
-- ❤️ my_tinder=[bit.ly/3hQ94Fs](https://bit.ly/3hQ94Fs)
-
-`)`
+This homelab is purposed for my VMware certification learning as well as gaining experience in VMware technologies, Hybrid and IaC
