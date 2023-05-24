@@ -9,16 +9,20 @@ My main interests are:
 - CI/CD: Jenkins
 
 ## My homelab
-Hardware:
-- 11th gen Dell PowerEdge R-series, running VMware ESXi 6.7
-- 13th gen Dell PowerEdge R-series, running VMware ESXi 7
-- 4th gen Intel old desktop, running VMware ESXi 6.7
-- Cisco Catalyst Layer-2 Switch
+### Servers:
+- Dell PowerEdge R410, running ESXi 6.7
+- Dell PowerEdge R630, running ESXi 7
+- 4th gen Intel old desktop, running ESXi 6.7
 
-Software:
+### Networking:
+- pfSense CE virtual router
+- VyOS 1.3.2 virtual router (replacing pfSense)
+- Cisco C2960X Layer-2 switch
+
+### Software:
 - VMware vSphere 7
 - VMware NSX-T 3.2
 - Red Hat Ansible Automation Platform (WIP)
 - VMware Tanzu Kubernetes Grid (WIP)
 
-This homelab is purposed for my VMware certification learning as well as gaining experience in VMware technologies, Hybrid and IaC
+This homelab is purposed for my VMware certifications learning as well as gaining experience in VMware technologies, Hybrid cloud and IaC
